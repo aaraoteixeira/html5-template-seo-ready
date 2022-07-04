@@ -1,0 +1,33 @@
+{
+  "name": "html5-seo",
+  "version": "1.0.0",
+  "description": "HTML5 + SEO Template",
+  "keywords": [
+    "html5",
+    "seo",
+    "template"
+  ],
+  "license": "MIT",
+  "author": "Aarão Teixeira <aarao.teixeira@gmail.com> (http://aaraot.io)",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "ulr": "https://gitlab.com/aaraot/html5-seo.git"
+  },
+  "homepage": "https://gitlab.com/aaraot/html5-seo",
+  "bugs": "https://gitlab.com/aaraot/html5-seo/issues",
+  "private": true,
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-csso": "latest",
+    "gulp-deporder": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-strip-debug": "latest",
+    "gulp-terser": "latest",
+    "gulp-watch": "latest"
+  }
+}
